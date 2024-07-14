@@ -83,7 +83,7 @@
 }
 
 @media screen and (max-width: 576px) {
-  .navbar, .nav-link{
+  .navbar, .nav-links{
     flex-direction: column;
   }
 }
